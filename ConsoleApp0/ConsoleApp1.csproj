@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <ApplicationIcon>MOTIFOYE.ico</ApplicationIcon>
+    <StartupObject />
+    <Win32Resource />
+    <Authors>Motifoye</Authors>
+    <Company>TTQRES</Company>
+    <Description>ConsoleApp1</Description>
+    <PackageIcon></PackageIcon>
+    <PackageIconUrl />
+    <NeutralLanguage>en</NeutralLanguage>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+</Project>
