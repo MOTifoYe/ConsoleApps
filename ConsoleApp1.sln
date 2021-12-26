@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание на одн�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 03 17", "Задача 03 17\Задача 03 17.csproj", "{A8CCA8F1-F162-4D7E-A1D9-06F0270D4E31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "дататабл", "дататабл\дататабл.csproj", "{EBA27845-98D9-4DAF-A0BD-13944A18D8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{9C692F62-41DA-4F39-B4A4-D2E5EE1342D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{A8CCA8F1-F162-4D7E-A1D9-06F0270D4E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8CCA8F1-F162-4D7E-A1D9-06F0270D4E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8CCA8F1-F162-4D7E-A1D9-06F0270D4E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA27845-98D9-4DAF-A0BD-13944A18D8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA27845-98D9-4DAF-A0BD-13944A18D8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA27845-98D9-4DAF-A0BD-13944A18D8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA27845-98D9-4DAF-A0BD-13944A18D8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C692F62-41DA-4F39-B4A4-D2E5EE1342D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C692F62-41DA-4F39-B4A4-D2E5EE1342D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C692F62-41DA-4F39-B4A4-D2E5EE1342D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C692F62-41DA-4F39-B4A4-D2E5EE1342D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
