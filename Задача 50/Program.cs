@@ -10,7 +10,7 @@ namespace Задача_50
     {
         static void Main(string[] args)
         {
-            Random rnd = new Random();
+            Random rnd = new Random(DateTime.Now.Millisecond);
 
             string[] fraz1 = new string[] 
             {
