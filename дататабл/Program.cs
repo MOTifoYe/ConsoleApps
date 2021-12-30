@@ -11,8 +11,6 @@ namespace дататабл
     {
         static void Main(string[] args)
         {
-            string a="",b="";
-            
             while (true)
             {
                 Console.WriteLine(new DataTable().Compute(Console.ReadLine().Replace(",", "."), null));
