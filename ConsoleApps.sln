@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMagic", "TheMagic\TheMag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка одномерного массива", "Сортировка одномерного массива\Сортировка одномерного массива.csproj", "{D2CCEBEA-C2CB-4CD9-AC8A-0FE4FB981A29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTriangle", "MathTriangle\MathTriangle.csproj", "{12F61E32-6BBE-42F1-856A-9B5D15B2A75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{D2CCEBEA-C2CB-4CD9-AC8A-0FE4FB981A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2CCEBEA-C2CB-4CD9-AC8A-0FE4FB981A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2CCEBEA-C2CB-4CD9-AC8A-0FE4FB981A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F61E32-6BBE-42F1-856A-9B5D15B2A75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F61E32-6BBE-42F1-856A-9B5D15B2A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F61E32-6BBE-42F1-856A-9B5D15B2A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F61E32-6BBE-42F1-856A-9B5D15B2A75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
