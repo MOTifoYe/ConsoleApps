@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Diagnostics;
-using System.Runtime.InteropServices;
 
 namespace TheMagic
 {
     internal class Program
     {
-        
+
         static void Main(string[] args)
         {
             Console.Clear();

@@ -6,7 +6,7 @@ namespace ConsoleApp1
     class Program
     {
         static int num = 0;
-        static void testFunc()
+        static void TestFunc()
         {
             Program.num++;
             Console.Write(Program.num);
@@ -20,8 +20,8 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            testFunc();
-            testFunc();
+            TestFunc();
+            TestFunc();
 
             Console.WriteLine(new Regex(@"[/*\-+]+$").Replace("23--**/*++69-*1*/-++--", ""));
 

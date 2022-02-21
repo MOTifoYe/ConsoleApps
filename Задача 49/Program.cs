@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Задача_49
 {
@@ -10,13 +6,11 @@ namespace Задача_49
     {
         static void Main(string[] args)
         {
-            string a = "";
-
             Console.WriteLine("0 - выход");
             while (true)
             {
-            Console.Write("Введи букву: ");
-            a = Console.ReadLine();
+                Console.Write("Введи букву: ");
+                string a = Console.ReadLine();
                 if (a == "0")
                 {
                     break;

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Задача_47
 {
@@ -14,17 +10,22 @@ namespace Задача_47
             string mark = Console.ReadLine();
             switch (mark)
             {
-                case "2": Console.WriteLine("Неудовлетворительно");
+                case "2":
+                    Console.WriteLine("Неудовлетворительно");
                     break;
-                case "3": Console.WriteLine("Удовлетворительно");
+                case "3":
+                    Console.WriteLine("Удовлетворительно");
                     break;
-                case "4": Console.WriteLine("Хорошо");
+                case "4":
+                    Console.WriteLine("Хорошо");
                     break;
-                case "5": Console.WriteLine("Отлично");
+                case "5":
+                    Console.WriteLine("Отлично");
                     break;
-                default: Console.WriteLine("Чет не правильно!!");
+                default:
+                    Console.WriteLine("Чет не правильно!!");
                     break;
-            } 
+            }
         }
     }
 }

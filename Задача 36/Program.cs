@@ -37,7 +37,7 @@ namespace Задача_36
                     c = a;
                     b = a;
                 }
-                
+
             }
             else
             {

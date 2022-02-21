@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Задача_50
 {
@@ -12,13 +8,13 @@ namespace Задача_50
         {
             Random rnd = new Random(DateTime.Now.Millisecond);
 
-            string[] fraz1 = new string[] 
+            string[] fraz1 = new string[]
             {
                 "Я калькулятор Женя,\nпосчитай во мне полностью",
                 "Приветствую, мой господин",
                 "Я заждалась тебя, братик",
                 "Ты вспомнил обо мне, проведем еще одну ночь вместе?",
-                "Спс за ночку, дорогая", 
+                "Спс за ночку, дорогая",
                 "Потрогай еще циферки, мне это очень нравится",
                 "Без тебя так одиноко...",
                 "Яматекудасай",
@@ -39,16 +35,20 @@ namespace Задача_50
             string c = Console.ReadLine();
             switch (c)
             {
-                case "+": Console.WriteLine(a + b);
+                case "+":
+                    Console.WriteLine(a + b);
                     break;
-                case "-": Console.WriteLine(a - b);
+                case "-":
+                    Console.WriteLine(a - b);
                     break;
-                case "*": Console.WriteLine(a * b);
+                case "*":
+                    Console.WriteLine(a * b);
                     break;
-                case "/": Console.WriteLine((double)a / (double)b);
+                case "/":
+                    Console.WriteLine((double)a / (double)b);
                     break;
-                default: 
-                    break; 
+                default:
+                    break;
             }
             Console.WriteLine("Я буду тебя ждать снова");
         }

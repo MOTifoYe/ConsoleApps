@@ -11,7 +11,7 @@ namespace Задача_44
             Console.Write("Сколько лет дракону: ");
             years = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i<=years; i++)
+            for (int i = 0; i <= years; i++)
             {
                 if (i < 100)
                 {

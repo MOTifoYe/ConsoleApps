@@ -8,7 +8,7 @@ namespace Гипергеометрия
         static void Main()
         {
             double P;
-            int n,m,N,M;
+            int n, m, N, M;
             N = 36;
             n = M = 5;
             m = 3;
@@ -20,9 +20,9 @@ namespace Гипергеометрия
             P = Gipergeometr(0, n, M, N) + Gipergeometr(1, n, M, N) + Gipergeometr(1, n, M, N);
             P = Math.Round(P, 3);
             Console.WriteLine($"Вероятность выигрыша {P}%");
-            Console.WriteLine($"Вероятность проигрыша {100-P}%");
+            Console.WriteLine($"Вероятность проигрыша {100 - P}%");
 
-            
+
         }
         static BigInteger Factorial(int a)
         {

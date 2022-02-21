@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ЗАдача_33
+namespace Задача_33
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace ЗАдача_33
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите число 3");
             c = Convert.ToInt32(Console.ReadLine());
-        
+
             if (a == 0)
             {
                 sum += 1;
