@@ -107,21 +107,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 32", "Зада
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 22", "Задача 22\Задача 22.csproj", "{F6276E54-D271-4A87-8B9D-FB1BDA3C25E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 52", "Задача 52\Задача 52.csproj", "{9D036D32-0AE4-4120-9A48-39F44E533D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 52", "Задача 52\Задача 52.csproj", "{9D036D32-0AE4-4120-9A48-39F44E533D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 53", "Задача 53\Задача 53.csproj", "{05BB938C-D89A-46B2-B5F1-0FE35B1694B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 53", "Задача 53\Задача 53.csproj", "{05BB938C-D89A-46B2-B5F1-0FE35B1694B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 54", "Задача 54\Задача 54.csproj", "{B1DD0444-3450-4DA6-80B2-F964C64996EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 54", "Задача 54\Задача 54.csproj", "{B1DD0444-3450-4DA6-80B2-F964C64996EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 55", "Задача 55\Задача 55.csproj", "{AB2A0E5A-878B-4596-B402-2CBDEEBCEC97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 55", "Задача 55\Задача 55.csproj", "{AB2A0E5A-878B-4596-B402-2CBDEEBCEC97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 56", "Задача 56\Задача 56.csproj", "{9629ECE2-E95F-4A34-83C7-7EFEF5921158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 56", "Задача 56\Задача 56.csproj", "{9629ECE2-E95F-4A34-83C7-7EFEF5921158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 57", "Задача 57\Задача 57.csproj", "{14632116-A267-41F5-B104-8702DBA691B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 57", "Задача 57\Задача 57.csproj", "{14632116-A267-41F5-B104-8702DBA691B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 58", "Задача 58\Задача 58.csproj", "{E09FFBDF-6A7E-4143-82C6-EA9382540E1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 58", "Задача 58\Задача 58.csproj", "{E09FFBDF-6A7E-4143-82C6-EA9382540E1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 59", "Задача 59\Задача 59.csproj", "{BAAAEAE7-3045-4D0C-8BD9-0DC96D178251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задача 59", "Задача 59\Задача 59.csproj", "{BAAAEAE7-3045-4D0C-8BD9-0DC96D178251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
